@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=aklimaakterasiya&color=blue)
-<img src="/banner.jpg"/>
+<img src="/image.jpg"/>
 
 
 
