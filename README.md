@@ -28,7 +28,7 @@
 <hr>
 <br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">🧑‍💻 Languages 🧑‍💻</h2>
+<h2 align="center">🧑‍💻 Languages: 🧑‍💻</h2>
 <br>
   <div align=center >
     <a href="https://github.com/aklimaakterasiya"><img align="left" width=990 height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklimaakterasiya&theme=transparent&border=006AFF" alt="GitHub Streak" /></a>
