@@ -7,7 +7,7 @@
 
 <br/>
    A passionate Front End developer 
-- 🌱 I’m currently learning **react.js** .
+- 🌱 I’m currently learning **node.js** .
 
 - Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
